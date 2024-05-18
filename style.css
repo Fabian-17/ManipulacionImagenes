@@ -1,0 +1,35 @@
+h1 {
+    color: #000;
+    font-size: 3em;
+    font-weight: bold;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    box-shadow: #000 0 0 15px;
+}
+
+h2 {
+    color: #000;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    box-shadow: #e34242 0 0 15px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    box-shadow: #e34242 0 0 15px;
+}
